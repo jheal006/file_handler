@@ -1,0 +1,5 @@
+name: File Handler
+description: Custom filter to place files behind user restrictions.
+type: module
+package: custom
+core: 8.x
